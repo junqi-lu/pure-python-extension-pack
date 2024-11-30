@@ -10,6 +10,11 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junqi-lu/pure-python-extension-pack.git"
+  },
+  "homepage": "https://github.com/junqi-lu/pure-python-extension-pack#readme",
   "extensionPack": [
     "ms-python.python",
     "ms-python.vscode-pylance",
