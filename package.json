@@ -3,7 +3,8 @@
   "displayName": "Yet Another Pure Python Extension Pack",
   "publisher": "junqi-lu",
   "description": "An extension pack for purely python",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "icon": "images/python-logo-only.png",
   "engines": {
     "vscode": "^1.95.0"
   },

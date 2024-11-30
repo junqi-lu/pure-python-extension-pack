@@ -5,9 +5,13 @@ All notable changes to the "pure-python-extension-pack" extension pack will be d
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.0.1] - 2024-11-30
+## [0.1.0] - 2024-11-30
 
 ### Added
+
+- add python logo from [python organization](https://www.python.org/community/logos/)
+
+## [0.0.1] - 2024-11-30
 
 - initialize extension pack with:
   - **Python**: The core extension for Python development in VS Code. [GitHub](https://github.com/microsoft/vscode-python)
