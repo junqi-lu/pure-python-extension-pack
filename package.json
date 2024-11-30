@@ -1,0 +1,23 @@
+{
+  "name": "pure-python-extension-pack",
+  "displayName": "Pure Python Extension Pack",
+  "publisher": "junqi-lu",
+  "description": "An extension pack for purely python",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.mypy-type-checker",
+    "ms-python.debugpy",
+    "ms-toolsai.jupyter",
+    "charliermarsh.ruff",
+    "gaogaotiantian.viztracer-vscode",
+    "njpwerner.autodocstring"
+  ]
+}
